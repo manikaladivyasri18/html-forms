@@ -1,16 +1,12 @@
 h1{
-    color:rgb(255, 0, 170);
+    text-align: center;
+    background-color:red;
 }
 p{
-    color:rgb(165, 42, 42);
+    text-align:left;
+    background-color: blue;
 
 }
 body{
-    background-color: rgb(233, 228, 228);
-}
-ol{
-    color: rgb(220, 243, 255);
-}
-button{
-    background-color: green;
+    background-color: rgb(8, 6, 6);
 }
