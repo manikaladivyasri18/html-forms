@@ -1,16 +1,47 @@
-h1{
-    color:black;
-    font-size:40px;
-}
-h2{
-    color:blue;
-    font-size:20px;
-}
-h3{
-    color:yellow;
-    font-size:10px;
-}
-body{
-    background-color:lightseagreen;
-}
+*
+{
+    background-color:white;
+    height:100px;
+    width:50px;
 
+}#green
+{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    font-size: large;
+    border: 50px solid green;
+    border-radius: 50%;  
+    background-color: green;
+   
+}
+#yellow
+{
+    height: 20px;
+    width: 20px;
+    font-size: large;
+    text-align: center;
+    border: 50px solid yellow;
+    border-radius: 50%; 
+    background-color: yellow; 
+   
+    
+    
+   
+}
+#orange
+{
+    height: 20px;
+    width: 20px;
+    text-align: center;
+    font-size: large;
+    border: 50px solid orange;
+    border-radius: 50%; 
+    background-color: orange; 
+   
+    
+
+}
+h1{
+    text-transform: capitalize;
+}
